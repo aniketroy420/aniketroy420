@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **some side projects**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [Github]()
 
 - 📫 How to reach me **aniketroy2002@gmail.com**
 
